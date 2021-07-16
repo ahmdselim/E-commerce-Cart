@@ -1,0 +1,25 @@
+.cart span {
+  right: 8px;
+  position: relative;
+  bottom: 12px;
+}
+.cart svg {
+  font-size: 20px;
+  color: #000 !important;
+}
+.delete svg {
+  margin-right: 5px;
+}
+.badge {
+  display: inline-block;
+  padding: 0.35em 0.65em;
+  font-size: 0.75em;
+  font-weight: 700;
+  line-height: 1;
+  background: #572323;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: 20px;
+  color: #fff;
+}
